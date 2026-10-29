@@ -14,7 +14,7 @@ Ideally, this agent will be connected to a enterprise data warehouse with read-o
 
 You can check the demo at [https://sql-chatbot-nu.vercel.app/](https://sql-chatbot-nu.vercel.app/)
 
-**If you are interested in the frontend code, please visit the following repository: [https://github.com/Anurag0975/sql-chatbot](https://github.com/Anurag0975/sql-chatbot)**
+
 
 ## Stack
 * Programming Language: [Python 3.12.8](https://www.python.org/)
