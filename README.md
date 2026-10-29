@@ -32,7 +32,7 @@ You can check the demo at [https://sql-chatbot-nu.vercel.app/](https://sql-chatb
 
 1. **Clone the Git repository to your local machine:**
 ```shell
-git clone https://github.com/jjovalle99/text-to-sql-agent.git
+git clone https://github.com/Anurag0975/text-to-sql-agent.git
 cd text-to-sql-agent
 ```
 
